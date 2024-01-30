@@ -1,4 +1,4 @@
-# Hold A gruppe 4 
+# Hold A gruppe 4 - projektidder sys
 
 ### Ideer til projekt?
 
