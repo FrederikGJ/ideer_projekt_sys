@@ -10,3 +10,15 @@
 - osv osv osv
 - osv osv osv
 
+### Udvidet hjemmeis bil extreme
+
+- Udskift is med kioskvarer (slik, alkohol, cigaretter, øl)
+- Hent geografisk data til udregning af algoritmer til kørsel (rute), fokusgruppe, inventar (udbud/efterspørgsel)
+- Bestillingssystem og betalingssystem
+- Tracking - så kunder kan se hvor bilen er 
+- Kundeklub (medlemstilbud, nyheder, point)
+- Maskot
+- Kun et lagerhus og bilerne
+- Vores eget tog (skal aftales med DSB)
+- Samarbejde med Wolt (små vogne/cykel udsendes til små veje, mere klimavenligt)
+  
