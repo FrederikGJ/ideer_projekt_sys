@@ -47,4 +47,4 @@ D. Er der en procedure for ændringer i metoden?
 Det er en uformel arbejdsplads, så ænding sker sjællendt hvis de gør er det via fælles møder da udviklingsteamet er småt (ca. 6 personer + 2 fultid Data Science) 
 
 E. Er den beskrevet skriftligt?
-Nej 
+Nej, der er ærligt ikke stor fokus på udviklingsmetoder og processen i det da ikke er virksomhedens fokus
