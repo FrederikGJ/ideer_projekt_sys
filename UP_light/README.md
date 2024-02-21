@@ -26,3 +26,14 @@ Som Admin skal man kunne se lokation.
 Som Admin skal man kunne se op tildele router til biler 
 
 Som Admin skal man kunne se og tildele chauffør til biler.  
+
+1 iteration KlasseDiagram 
+![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/3baac35a-9043-492a-8b23-a2c56efd678d)
+
+1 iteration DomæneModel 
+![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/c2ecad28-bb55-4fd8-bf6a-d512cb04d2cf)
+
+
+1 iteration UseCaseModel 
+![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/0ae8d3f8-fc97-4a73-ad38-b31051ca9984)
+
