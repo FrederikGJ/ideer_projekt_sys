@@ -2,7 +2,7 @@
 
 Denne mappe indeholder dokumentation i form af billeder og tekst, samt et mock-up af backend koden til UP Light.
 
-User Stories 
+### User Stories 
 
 Som bruger skal man kunne oprette bruger med adgangskode og brugernavn.
 
