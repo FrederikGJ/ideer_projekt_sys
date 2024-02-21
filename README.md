@@ -23,7 +23,7 @@
 - Vores eget tog (skal aftales med DSB)
 - Samarbejde med Wolt (små vogne/cykel udsendes til små veje, mere klimavenligt)
 
-### Interview med virksomhed
+## Interview med virksomhed
 
 Vores noter fra interviewet, med besvarelser på spørgsmålene ligger i filen noter_fra_interview.md 
 
