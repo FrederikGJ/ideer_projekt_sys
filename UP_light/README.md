@@ -37,3 +37,6 @@ Som Admin skal man kunne se og tildele chauffør til biler.
 1 iteration UseCaseModel 
 ![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/0ae8d3f8-fc97-4a73-ad38-b31051ca9984)
 
+### Arkitektur 
+
+![stack ](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/7249d888-4df6-497c-941f-c10ed733e68e)
