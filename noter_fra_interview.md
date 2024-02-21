@@ -2,9 +2,6 @@
 
 ## Interviewet
 
-respondent siger : 
-bla bla bla 
-
 Spørgsmål om Teck Stack og metoder
 Først Teck Stack:
 1. Beskriv jeres Teck Stack(s)
