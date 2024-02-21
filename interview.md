@@ -15,6 +15,6 @@ Interviewet er foretaget i en uformel tone.
 
 ### Referencer
 
-Kvale, S. (årstal). Interview: En introduktion til det kvalitative forskningsinterview. 2. udg. Udgiverens: Hans Reitzels Forlag.
+Kvale, S. & Brinkmann, S. (2015). Interview - Det kvalitative forskningsinterview som håndværk. 2. udg. København: Hans Reitzels Forlag.
 
 Larman, C. (2004). Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development. 3rd ed. Pearson.
