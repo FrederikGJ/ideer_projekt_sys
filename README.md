@@ -10,7 +10,7 @@
 - osv osv osv
 - osv osv osv
 
-### Udvidet hjemmeis bil extreme
+### Extreme delivery
 
 - Udskift is med kioskvarer (slik, alkohol, cigaretter, øl)
 - Hent geografisk data til udregning af algoritmer til kørsel (rute), fokusgruppe, inventar (udbud/efterspørgsel)
