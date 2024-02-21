@@ -22,13 +22,13 @@
 - Vores eget tog (skal aftales med DSB)
 - Samarbejde med Wolt (små vogne/cykel udsendes til små veje, mere klimavenligt)
 
-  ### Interview med virksomhed
+### Interview med virksomhed
 
-  Vores noter fra interviewet, med besvarelser på spørgsmålene ligger i filen noter_fra_interview.md 
+Vores noter fra interviewet, med besvarelser på spørgsmålene ligger i filen noter_fra_interview.md 
 
-  ### Rapport omkring interview
+### Rapport omkring interview
 
-  Vores rapport der skal afleveres den 4. marts ligger i filen interview.md
+Vores rapport der skal afleveres den 4. marts ligger i filen interview.md
 
   
 
