@@ -10,7 +10,7 @@
 - osv osv osv
 - osv osv osv
 
-### Extreme delivery
+### Extreme delivery - projektet ligger i UP_ligt mappen
 
 - Udskift is med kioskvarer (slik, alkohol, cigaretter, øl)
 - Hent geografisk data til udregning af algoritmer til kørsel (rute), fokusgruppe, inventar (udbud/efterspørgsel)
@@ -21,4 +21,16 @@
 - Kun et lagerhus og bilerne
 - Vores eget tog (skal aftales med DSB)
 - Samarbejde med Wolt (små vogne/cykel udsendes til små veje, mere klimavenligt)
+
+  ### Interview med virksomhed
+
+  Vores noter fra interviewet, med besvarelser på spørgsmålene ligger i filen noter_fra_interview.md 
+
+  ### Rapport omkring interview
+
+  Vores rapport der skal afleveres den 4. marts ligger i filen interview.md
+
+  
+
+
   
