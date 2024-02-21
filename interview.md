@@ -1,4 +1,12 @@
 # Interview
+Vi har foretaget et interview i virksomheden Dansk Brand- og Sikringsteknisk Institut (i daglig tale kaldet DBI). 
+
+DBI er en ingeniørvirksomhed og privat forskningsinstitution, der arbejder med brand- og sikringsteknik. 
+
+Vi har interviewet en medarbejder, der arbejder med at udvikle software til virksomheden.
+
+## Interviewet
+Vi har foretaget et semistruktureret interview, hvor vi har stillet en række spørgsmål, som vi har forberedt på forhånd. 
 
 
 
