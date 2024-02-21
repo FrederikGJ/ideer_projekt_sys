@@ -6,9 +6,11 @@ DBI er en ingeniørvirksomhed og privat forskningsinstitution, der arbejder med 
 Vi har interviewet en medarbejder, der arbejder med at udvikle software til virksomheden.
 
 ## Interviewet
-Vi har foretaget et semistruktureret interview, hvor vi har stillet en række spørgsmål, som vi har forberedt på forhånd. 
+Vi har foretaget et semistruktureret interview, hvor vi har stillet en række spørgsmål, som underviser har udleveret på forhånd. 
 
+Det semi-strukturerede interview er valgt, da det giver mulighed for at stille uddybende spørgsmål undervejs, og dermed få en dybere forståelse for de emner, vi har spurgt ind til.
 
+Interviewet er foretaget i en uformel tone. 
 
 
 ### Referencer
