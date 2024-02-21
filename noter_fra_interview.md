@@ -1,4 +1,5 @@
 # Noter fra interview med DBI
+Vi har interviewt Andreas Klauber, Data Scientist hos Afdleing Brandrådivning/Consulting. 
 
 ## Interviewet
 
