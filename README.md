@@ -10,7 +10,8 @@
 - osv osv osv
 - osv osv osv
 
-### Extreme delivery - projektet ligger i UP_ligt mappen
+### Extreme delivery
+### projektet ligger i UP_ligt mappen
 
 - Udskift is med kioskvarer (slik, alkohol, cigaretter, øl)
 - Hent geografisk data til udregning af algoritmer til kørsel (rute), fokusgruppe, inventar (udbud/efterspørgsel)
