@@ -31,22 +31,22 @@ Vi har interviewt Andreas Klauber, Data Scientist hos afdleing Brandrådivning/C
 #### 9. Er den beskrevet skriftligt?
     Nej, da det primært er en ingenør virksomhed med fokus på forskning, så meget få udviklere. 
    
-Nu til Udviklingsmetode:
+### Nu til Udviklingsmetode:
 
-A. Beskrive jeres udviklingsmetode(r)
+#### A. Beskrive jeres udviklingsmetode(r)
 De kører LEAN startup de vigtige komponenter er BML (hurtig levering med mange iterationer så de starter med et MVP) 
 Enekelte studenterprojekter kører med SCUM
 
-B. Hvordan er den opstået? (Har I lagt ud med en ”ren” metode og tilpasset det?)
+#### B. Hvordan er den opstået? (Har I lagt ud med en ”ren” metode og tilpasset det?)
 De har lagt ud med en "ren" metode og tilpasset den. 
 Tilpasset lidt på LEAN startup, eks(antopolog på stedet laver ekstra arbejde som udvider processen med fx interviews)
 UX delen udvider også processen.  
 
-C. Hvor ofte og af hvilken grund skifter I ud i jeres metode?
+#### C. Hvor ofte og af hvilken grund skifter I ud i jeres metode?
 Der skiftes ikke ud i metoder, de bliver mere bare tilpasset. "If it ain´t broke, don´t fix it" 
 
-D. Er der en procedure for ændringer i metoden?
+#### D. Er der en procedure for ændringer i metoden?
 Det er en uformel arbejdsplads, så ænding sker sjællendt hvis de gør er det via fælles møder da udviklingsteamet er småt (ca. 6 personer + 2 fultid Data Science) 
 
-E. Er den beskrevet skriftligt?
+#### E. Er den beskrevet skriftligt?
 Nej, der er ærligt ikke stor fokus på udviklingsmetoder og processen i det da ikke er virksomhedens fokus
