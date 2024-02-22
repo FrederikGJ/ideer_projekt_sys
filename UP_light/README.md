@@ -39,14 +39,13 @@ Denne mappe indeholder dokumentation i form af billeder og tekst, samt et mock-u
   
 **1 iteration KlasseDiagram**
 ![klassediagram1](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/e4bbdc9f-dfc9-4e88-819b-201464047878)
-
 **1 iteration DomæneModel** 
 ![domainmodel1](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/f33b0766-4290-4a0e-a333-3c3b0e8b5e72)
-
-
 **1 iteration UseCaseModel** 
 ![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/0ae8d3f8-fc97-4a73-ad38-b31051ca9984)
 
+**2 iteration UseCaseModel**
+![usecase2](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/377037b0-a63a-4cf2-ad60-cb01771e1b96)
 
 ### Arkitektur 
 
