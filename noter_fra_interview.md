@@ -7,7 +7,7 @@ Vi har interviewt Andreas Klauber, Data Scientist hos afdleing Brandrådivning/C
 
 ### Først Teck Stack:
 #### 1. Beskriv jeres Teck Stack(s)
-   Legasy programmer/tekniskgæld (JavaScript og HTML) andre "ældre" techstacks er C# og angular til    front end.
+  Legasy programmer/tekniskgæld (JavaScript og HTML) andre "ældre" techstacks er C# og angular til    front end.
    De bruger til Data Science app bruger de python, streamli og protgres eller Microsoft som DB.
    I nu værende applicationer kører C#.NET i Backend og Blaser til FrontEnd
    Til simuleringeer af brand bruges Unity, til visualisering. 
@@ -29,7 +29,7 @@ Vi har interviewt Andreas Klauber, Data Scientist hos afdleing Brandrådivning/C
    Ja, men ikke formelt. Det er møder mellem udviklere og ledelsen (afdeling og direktion)
    
 #### 9. Er den beskrevet skriftligt?
-    Nej, da det primært er en ingenør virksomhed med fokus på forskning, så meget få udviklere. 
+   Nej, da det primært er en ingenør virksomhed med fokus på forskning, så meget få udviklere. 
    
 ### Nu til Udviklingsmetode:
 
