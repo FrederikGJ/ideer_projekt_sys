@@ -3,9 +3,10 @@ Vi har interviewt Andreas Klauber, Data Scientist hos afdleing Brandrådivning/C
 
 ## Interviewet
 
-Spørgsmål om Teck Stack og metoder
-Først Teck Stack:
-1. Beskriv jeres Teck Stack(s)
+**Spørgsmål om Teck Stack og metoder**
+
+### Først Teck Stack:
+#### 1. Beskriv jeres Teck Stack(s)
    Legasy programmer/tekniskgæld (JavaScript og HTML) andre "ældre" techstacks er C# og angular til    front end.
    De bruger til Data Science app bruger de python, streamli og protgres eller Microsoft som DB.
    I nu værende applicationer kører C#.NET i Backend og Blaser til FrontEnd
@@ -14,20 +15,20 @@ Først Teck Stack:
    Til cloud bruges der Asher
    Til versionsstyring bruges der Mifrosoft
    
-3. Hvorfor er Teck Stack’en indrettet sådan?
+#### 3. Hvorfor er Teck Stack’en indrettet sådan?
    Det er valgt af Elite udviklere.
    Nye programmer fortsætter i de programmer der allerede kører, da omkostninger for ændringer er       for høje og programmerne er stadigvæk i brug.
    Mange systemer med gammel teckstaks kan betales at holdes i live  og er i brug. 
    Kører med ens sporg for  lettere vedligeholdelse.
     
-5. Hvor ofte og af hvilken grund skifter I ud i Teck Stack’en?
+#### 5. Hvor ofte og af hvilken grund skifter I ud i Teck Stack’en?
    Meget sjældet, ca en gang hvert 5 år kommer det til overvejselse men ikke sikkert at det gør.
    Hvis det bliver er det oftest pga sikkerhed,  kunstig intelligens og andre store teknologiske    udviklinger.
    
-7. Er der en procedure for ændringer i jeres Teck Stack?
+#### 7. Er der en procedure for ændringer i jeres Teck Stack?
    Ja, men ikke formelt. Det er møder mellem udviklere og ledelsen (afdeling og direktion)
    
-9. Er den beskrevet skriftligt?
+#### 9. Er den beskrevet skriftligt?
     Nej, da det primært er en ingenør virksomhed med fokus på forskning, så meget få udviklere. 
    
 Nu til Udviklingsmetode:
