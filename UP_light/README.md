@@ -38,9 +38,9 @@ Denne mappe indeholder dokumentation i form af billeder og tekst, samt et mock-u
 - Tilføj chauffør til bil!
   
 **1 iteration KlasseDiagram**
-<img src="[image_url](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/3baac35a-9043-492a-8b23-a2c56efd678d)" alt="Alt Text" width="100" height="100">
+<img src="[image_url](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/3baac35a-9043-492a-8b23-a2c56efd678d)" alt="GitHub Logo" width="40" height="40">
 
-![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/3baac35a-9043-492a-8b23-a2c56efd678d)
+
 
 **1 iteration DomæneModel** 
 ![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/c2ecad28-bb55-4fd8-bf6a-d512cb04d2cf)
