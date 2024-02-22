@@ -5,10 +5,10 @@ Denne mappe indeholder dokumentation i form af billeder og tekst, samt et mock-u
 ## Extreme Delivery
 
 ### UseCase
-System: Leverings service 
-Primære aktør: Bruger , Admin 
+- System: Leverings service 
+- Primære aktør: Bruger og Admin 
 
-En person opretter sig som bruger og tilføjer sin aktuelle lokation eller sin privatadresse. Herefter kan brugeren se alle stop på 'Extream Delivery's rute og vælge hvilket der er tættest på deres valgte lokation. Undervejs i processen kan brugeren følge med i varevognens kørsel, så de kan estimere den optimale ankomst. Ved ankomst på stoppestedet på det forudbestemte tidspunkt/dato* kan brugeren herefter købe sin ønskede vare fra varevognen. 
+- En person opretter sig som bruger og tilføjer sin aktuelle lokation eller sin privatadresse. Herefter kan brugeren se alle stop på 'Extream Delivery's rute og vælge hvilket der er tættest på deres valgte lokation. Undervejs i processen kan brugeren følge med i varevognens kørsel, så de kan estimere den optimale ankomst. Ved ankomst på stoppestedet på det forudbestemte tidspunkt/dato* kan brugeren herefter købe sin ønskede vare fra varevognen. 
 
 *forudbestemt tispunkt og dato er fastsat af firma og er altid det samme.
 
@@ -35,8 +35,8 @@ En person opretter sig som bruger og tilføjer sin aktuelle lokation eller sin p
 - Se alle biler 
 - Se alle chauføre 
 - Tilføj route til bil 
-- Tilføj chauffør til bil![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/7140c4a5-6436-4f6e-baad-89c0d1853b1b)  
-
+- Tilføj chauffør til bil!
+  
 **1 iteration KlasseDiagram**
 ![image](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113087480/3baac35a-9043-492a-8b23-a2c56efd678d)
 
