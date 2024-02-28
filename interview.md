@@ -18,6 +18,9 @@ Vi har interviewet en medarbejder, der arbejder med at udvikle software til virk
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
+## Tech stack illustreret visuelt 
+![c_sharp_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/8cc2c7c0-1bb0-4da8-83bd-2e318380cb48)
+![py_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/d262411d-fe8e-41fc-8fef-96aa17efb7e7)
 
 ## Interviewet
 
