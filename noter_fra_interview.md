@@ -8,7 +8,8 @@ Vi har interviewt Andreas Klauber, Data Scientist hos afdleing Brandrådivning/C
 ### Først Teck Stack:
 #### 1. Beskriv jeres Teck Stack(s)
   Legasy programmer/tekniskgæld (JavaScript og HTML) andre "ældre" techstacks er C# og angular til    front end.
-   De bruger til Data Science app bruger de python, streamli og protgres eller Microsoft som DB.
+   De bruger til Data Science app bruger de python, streamlit.
+   Protgres eller Microsoft som DB.
    I nu værende applicationer kører C#.NET i Backend og Blaser til FrontEnd
    Til simuleringeer af brand bruges Unity, til visualisering. 
    Til store maskiner/embededprogramming skrives i C.
