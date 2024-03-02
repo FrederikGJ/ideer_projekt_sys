@@ -22,7 +22,7 @@ Interviewet er foretaget semistruktureret  hvor vi har stillet en række spørgs
 
 Da DBI er ikke en it-virksomhed, er det primært ingeniører der arbejder der og ikke udviklere. Det minimale antal af it-faglige har påvirket fokuset på forbedring og udskiftning af deres tech stack. 
 
-I deres nuværende tech stack bruges Python og Streamlit  til udvikling af data science apps. 
+I deres nuværende tech stack bruges Python og Streamlit  til udvikling af data science apps, samt apps der kræver omfattende matematiske biblioteker. 
 PostgreSQL eller Microsoft SQL bruges til relationel database.  
 Til for eksempel  brandsikrings-applikationerne bruges C# .NET til backend og Blazor (C#) til frontend.
 
