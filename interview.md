@@ -33,7 +33,7 @@ Grunden til at de kører med den valgte tech stack er primært, at udgifterne  t
 Ændringer i stacken sker sjældent. Det er ca. en gang hvert 5 år at det kommer til overvejelse, men uden sikkerhed at noget bliver ændret.  Hvis ændringer sker, er der ingen formel procedure for det, det vedtages ofte ved uformelle møder mellem udviklere og ledelsen. 
 Meget sjældent, ca. en gang hvert 5 år kommer det til overvejelse men ikke sikkert at det gør. Hvis det bliver, er det oftest pga sikkerhed, kunstig intelligens og andre store teknologiske udviklinger.
 
-## Tech stack illustreret visuelt 
+## App arkitektur illustreret visuelt 
 ![c_sharp_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/8cc2c7c0-1bb0-4da8-83bd-2e318380cb48)
 ![py_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/d262411d-fe8e-41fc-8fef-96aa17efb7e7)
 
@@ -45,3 +45,5 @@ Meget sjældent, ca. en gang hvert 5 år kommer det til overvejelse men ikke sik
 Kvale, S. & Brinkmann, S. (2015). Interview - Det kvalitative forskningsinterview som håndværk. 2. udg. København: Hans Reitzels Forlag.
 
 Larman, C. (2004). Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development. 3rd ed. Pearson.
+
+Ries, E. (2011) The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business, New York.
