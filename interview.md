@@ -1,6 +1,9 @@
 # Interview
-Vi har foretaget et interview i virksomheden Dansk Brand- og Sikringsteknisk Institut (i daglig tale kaldet DBI). DBI er en ingeniørvirksomhed og privat forskningsinstitution, der arbejder med brand- og sikringsteknik i bygninger.Vi har interviewet en medarbejder, der arbejder med at udvikle software og data science applikationer til virksomheden.
-Interviewet er foretaget semistruktureret  hvor vi har stillet en række spørgsmål, som underviserne har udleveret på forhånd. Det semistrukturerede interview er valgt, da det giver mulighed for at stille uddybende spørgsmål undervejs, og dermed få en dybere forståelse for de emner, vi har spurgt ind til. Tonen igennem interviewet var uformelt og spørgsmålene blev ikke givet til respondenten på forhånd. Dog var emnet var afsløret, så respondenten havde en idé om, hvad interviewet ville handle om.  
+Vi har foretaget et interview i virksomheden Dansk Brand- og Sikringsteknisk Institut (i daglig tale kaldet DBI). DBI er en ingeniørvirksomhed og privat forskningsinstitution, der arbejder med brand- og sikringsteknik i bygninger.
+
+Vi har interviewet en medarbejder, der arbejder med at udvikle software og data science applikationer til virksomheden.
+
+Interviewet er foretaget semistruktureret  hvor vi har stillet en række spørgsmål, som underviserne har udleveret på forhånd. Det semistrukturerede interview er valgt, da det giver mulighed for at stille uddybende spørgsmål undervejs, og dermed få en dybere forståelse for de emner, vi har spurgt ind til. Tonen igennem interviewet var uformelt og spørgsmålene blev ikke givet til respondenten på forhånd. Emnet var afsløret, så respondenten havde en idé om, hvad interviewet ville handle om.  
 
 
 ## Tech stack -listen er baseret på interviewet med DBI.
