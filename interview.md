@@ -37,7 +37,9 @@ Meget sjældent, ca. en gang hvert 5 år kommer det til overvejelse men ikke sik
 ![c_sharp_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/8cc2c7c0-1bb0-4da8-83bd-2e318380cb48)
 ![py_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/d262411d-fe8e-41fc-8fef-96aa17efb7e7)
 
-## Interviewet
+## Udviklæingsmetode 
+
+Som udviklingsmetode kører de LEAN startup, hvor de vigtigste komponenter er BML (build measure learn), som indebærer hurtigt levering med mange iterationer, så de starter med et MVP (minimum viable product). Det gør at udviklingsprocessen er effektiv og hurtig. Nogle enkelte studenterprojekter kører med SCRUM i stedet for. De har lagt ud med en “ren” metode og derefter tilpasset lidt på LEAN startupmetoden. De har f.eks. ansat en antropolog, som udvider processen med interviews, og UX delen udvider også processen. De ændrer ikke på deres udviklingsmetode, men tilpasser den i stedet, så den passer bedre. Hvis der nu skal skiftes ud i metoden alligevel eller der skal diskuteres nogle ændringer, så bliver det gjort via fælles møder i udviklingsteamet. Det bliver ikke dokumenteret, da udviklingsteamet er så småt og det er ikke det der er virksomhedens fokus (Ries, 2011, kap 4). 
 
 
 ### Referencer
