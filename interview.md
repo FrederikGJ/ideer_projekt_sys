@@ -28,6 +28,8 @@ Til for eksempel  brandsikrings-applikationerne bruges C# .NET til backend og Bl
 Der laves også simuleringer af brande, hvor Unity bliver brugt og store embedded programmer bliver skrevet i C. Til den overordnede versionsstyring bruges Microsoft og Azure bruges som cloud. 
 Virksomheden har også nogle legacy webapplikationer. Her bruges JavaScript og HTML, og nogle af dem også .NET C# og angular til frontend. 
 
+Den eneste betalte API der anvendes hos virksomehden er OpenAIs API, som bruges både til embedding af data samt træning af forretningsspecifik LLM.
+
 Grunden til at de kører med den valgte tech stack er primært, at udgifterne  til udskiftning er for dyre. Den er i sin tid blevet valgt af elite udviklere og mange af programmerne er stadigvæk i brug.  Nye programmer fortsætter ofte i gamle programmer ved at lave refaktorering, da omkostninger for ændringer er for høje og programmerne er stadigvæk i brug. Det kan dog betale sig at holde disse programmer vedligeholdt og dette gøres nemmere ved at bruge det samme sprog.   
 
 Ændringer i stacken sker sjældent. Det er ca. en gang hvert 5 år at det kommer til overvejelse, men uden sikkerhed at noget bliver ændret.  Hvis ændringer sker, er der ingen formel procedure for det, det vedtages ofte ved uformelle møder mellem udviklere og ledelsen. 
