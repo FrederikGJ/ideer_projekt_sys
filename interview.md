@@ -39,12 +39,17 @@ Meget sjældent, ca. en gang hvert 5 år kommer det til overvejelse men ikke sik
 
 ## Udviklæingsmetode 
 
-Som udviklingsmetode kører de LEAN startup, hvor de vigtigste komponenter er BML (build measure learn), som indebærer hurtigt levering med mange iterationer, så de starter med et MVP (minimum viable product). Det gør at udviklingsprocessen er effektiv og hurtig. Nogle enkelte studenterprojekter kører med SCRUM i stedet for. De har lagt ud med en “ren” metode og derefter tilpasset lidt på LEAN startupmetoden. De har f.eks. ansat en antropolog, som udvider processen med interviews, og UX delen udvider også processen. De ændrer ikke på deres udviklingsmetode, men tilpasser den i stedet, så den passer bedre. Hvis der nu skal skiftes ud i metoden alligevel eller der skal diskuteres nogle ændringer, så bliver det gjort via fælles møder i udviklingsteamet. Det bliver ikke dokumenteret, da udviklingsteamet er så småt og det er ikke det der er virksomhedens fokus (Ries, 2011, kap 4). 
+Før et udviklingsprojekt sættes i gang laves der oftest en afdækning af domænet med object-oriented analysis (Larman, 2004, s. 7). Eksempler på objekter kan være de elementer der indgår i en bærende konstruktion. 
 
+Som udviklingsmetode kører de LEAN startup, hvor de vigtigste komponenter er BML som er en forkortelse for build measure learn (Ries, 2011, kap 4), som indebærer hurtigt levering med mange iterationer, så de starter med et MVP (minimum viable product)  (Ries, 2011, kap 4). Det gør at udviklingsprocessen er effektiv og hurtig. Nogle enkelte studenterprojekter kører med SCRUM i stedet for. De har lagt ud med en “ren” metode og derefter tilpasset lidt på LEAN startupmetoden. De har f.eks. ansat en antropolog, som udvider processen med interviews, og UX delen udvider også processen. De ændrer ikke på deres udviklingsmetode, men tilpasser den i stedet, så den passer bedre. Hvis der nu skal skiftes ud i metoden alligevel eller der skal diskuteres nogle ændringer, så bliver det gjort via fælles møder i udviklingsteamet. Det bliver ikke dokumenteret, da udviklingsteamet er så småt og det er ikke det der er virksomhedens fokus. 
+
+## Refleksioner 
+
+Efter besøget er det blevet  tydeligt at det er de færreste virksomheder (der ikke primært er it-virksomheder) som har formelle procedure for ændringer eller tilføjelser til deres tech stack. Hvis vi skulle komme med reelle forbedringer, ville det være at indføre skrevne regler og retningslinjer for ændringer i tech stacken. Dette vil sikre fælles forståelse og håndtering af  både ny og gammel kode. 
+
+Overordnet virker det dog til at DBI har godt overblik over deres programmer og de teknologier der bruges. De få udviklere DBI har arbejder  tæt sammen og vægter kommunikation højt, dog kan den altid forbedres.  I interviewet var der flere hentydninger til den mangel på struktur. Dog grundet størrelsen på teamet og antallet af udviklere, ville mere struktur muligvis kun sænke processen med udvikling af nye apps. 
 
 ### Referencer
-
-Kvale, S. & Brinkmann, S. (2015). Interview - Det kvalitative forskningsinterview som håndværk. 2. udg. København: Hans Reitzels Forlag.
 
 Larman, C. (2004). Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development. 3rd ed. Pearson.
 
