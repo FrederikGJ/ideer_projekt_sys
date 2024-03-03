@@ -35,13 +35,13 @@ Den eneste betalte API der anvendes hos virksomehden er OpenAIs API, som bruges 
 Grunden til at de kører med den valgte tech stack er primært, at udgifterne  til udskiftning er for dyre. Den er i sin tid blevet valgt af elite udviklere og mange af programmerne er stadigvæk i brug.  Nye programmer fortsætter ofte i gamle programmer ved at lave refaktorering, da omkostninger for ændringer er for høje og programmerne er stadigvæk i brug. Det kan dog betale sig at holde disse programmer vedligeholdt og dette gøres nemmere ved at bruge det samme sprog.   
 
 Ændringer i stacken sker sjældent. Det er ca. en gang hvert 5 år at det kommer til overvejelse, men uden sikkerhed at noget bliver ændret.  Hvis ændringer sker, er der ingen formel procedure for det, det vedtages ofte ved uformelle møder mellem udviklere og ledelsen. 
-Meget sjældent, ca. en gang hvert 5 år kommer det til overvejelse men ikke sikkert at det gør. Hvis det bliver, er det oftest pga sikkerhed, kunstig intelligens og andre store teknologiske udviklinger.
+Hvis det bliver, er det oftest pga sikkerhed, kunstig intelligens og andre store teknologiske udviklinger.
 
 ## App arkitektur illustreret visuelt 
 ![c_sharp_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/8cc2c7c0-1bb0-4da8-83bd-2e318380cb48)
 ![py_stack](https://github.com/FrederikGJ/ideer_projekt_sys/assets/113090989/d262411d-fe8e-41fc-8fef-96aa17efb7e7)
 
-## Udviklæingsmetode 
+## Udviklingsmetode 
 
 Før et udviklingsprojekt sættes i gang laves der oftest en afdækning af domænet med object-oriented analysis (Larman, 2004, s. 7). Eksempler på objekter kan være de elementer der indgår i en bærende konstruktion. 
 
